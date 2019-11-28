@@ -17,7 +17,7 @@ At this stage a chemo cycle is 3 weeks long, 3-5 days of chemo as an inpatient h
 ## At Home
 Things haven’t changed that much at home, it’s just been getting use to the medication routine and keeping a little be it of a closer eye on Violet.
 * 0700 - stop continuous feed. Wake, sometimes we're lucky and the other kids will play quietly and Violet will sleep in
-![Image of a feeding pump](./assets/img/posts/be-bop.jpg "Violet and Be-Bop" =150x)
+![Image of a feeding pump](/assets/img/posts/be-bop.jpg "Violet and Be-Bop")
 * 0730 - Breakfast & start [bolus feed](https://en.wikipedia.org/wiki/Bolus_(medicine)) via be-bop (feed pump for the [NG tube](https://en.wikipedia.org/wiki/Nasogastric_intubation))
 * 0800 - Morning medications (slow release pain, anti fungal & antibiotic[Mon-Wed])
 * 0830 - Bolus end
@@ -30,9 +30,10 @@ Things haven’t changed that much at home, it’s just been getting use to the 
 
 But wait... just when you think you’re in a rhythm at home, there are any number of reasons to head back to hospital.. Temp above 38 / Shivering or unwell after central line access / Difficultly breathing / Bruising etc. As the immune system is beaten up during chemo <span class="_5yi_">any</span> infection can be very dangerous, so getting back to hospital to start observations and antibiotics is crucial.
 
+
 ## Clinic day
+<img src="/assets/img/posts/backseat-driver.jpg" alt="I'm learning how to be a great backseat driver" align="right" />
 * 0630 - Antiemetic before/when she wakes
-<img src="/assets/img/posts/backseat-driver.jpg" alt="" width="150"  style="float: right;" alt="I'm learning how to be a great backseat driver"></img>
 * 0700 - Wake
 * 0730 - Breakfast & morning meds (slow release pain, anti fungal & antibiotic[mon-wed])
 * 0800 - Drive in, hopefully antiemetic is working by then, but one of is sits in the back with Violet (to catch the motion sickness vomit)
@@ -40,7 +41,7 @@ But wait... just when you think you’re in a rhythm at home, there are any numb
 * 0925 - Coffee (important part of every day)
 * 0930⭐ - Checkin, get height and weight taken
 * 1000⭐ - Dressing change and [central line](https://en.wikipedia.org/wiki/Central_venous_catheter) plug change
-![Image of vomit bags.](./assets/img/posts/gift-bag.jpg "If we're luck we get a 'gift bag' or two during the 30-50 min drive." =150x)
+![Image of vomit bags.](/assets/img/posts/gift-bag.jpg "If we're luck we get a 'gift bag' or two during the 30-50 min drive." =150x)
 * 1100⭐ - Oncologist consult
 * 1200 - drive home, one of is sits in the back with Violet (again)
 

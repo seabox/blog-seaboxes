@@ -3,7 +3,7 @@ layout: post
 title: The Journey So Far
 date: 2016-02-01 05:59
 author: craig
-comments: true
+color: rgb(25,10,160)
 tags: [journey]
 ---
 After a couple of months of “not being 100%” then 2 weeks of diagnosis at Lady Cilento (LCCH), on 12 November 2015, my youngest of three children, Violet(6) was diagnosed with stage 4 Neuroblastoma, a tumorous cancer  slightly larger than a tennis ball (78 x 66 x 83mm) growing on Violet’s adrenal gland on her left kidney. Being stage 4 the cancer has metastasised and is in all her bones and marrow. Childhood cancer <a href="http://www.cancerresearchuk.org/health-professional/cancer-statistics/incidence/age">is rare</a>, and neuroblastoma in kids older than 2 is rarer.

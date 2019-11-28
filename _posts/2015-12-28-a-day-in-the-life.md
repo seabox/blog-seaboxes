@@ -4,7 +4,7 @@ title: A Day in The Life
 date: 2015-12-28 08:00
 author: seaboxes
 tags: [journey, reality]
-color: purple
+color:  rgb(80,10,150)
 author: craig
 ---
 *Re-posted from FB note from 28 Dec 2015.*

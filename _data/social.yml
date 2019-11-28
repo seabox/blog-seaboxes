@@ -4,11 +4,11 @@ email_address:    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
-facebook:
+facebook: VioletsOfTomorrow
 flickr:
 gitlab:
-github: "sylhare"
-instagram:
+github: 
+instagram: violets.of.tomorrow
 keybase:
 linkedin:         # Full URL
 pinterest:
@@ -26,11 +26,11 @@ youtube:
 # Share button options
 share:
   facebook: true
-  twitter: true
+  twitter: 
   tumblr:
   pinterest:
   pocket:
-  reddit: true
+  reddit: 
   linkedin:
   wordpress:
   email: true

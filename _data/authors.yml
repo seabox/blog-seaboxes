@@ -1,19 +1,11 @@
-rohanchandra: # author-id
-  name: "Rohan Chandra"
-  avatar: "https://avatars2.githubusercontent.com/u/816965?s=460&v=4"
-  url: "https://github.com/rohanchandra"
-sylhare:
-  name: Sylhare
-  avatar: "assets/img/avatars/sylhare_avatar.png"
-  url: "https://github.com/sylhare"
-mmistakes:
-  name: "Michael Rose"
-  avatar: "https://avatars3.githubusercontent.com/u/1376749?s=460&v=4"
-  url: "https://github.com/mmistakes"
-mhagnumdw:
-  name: Mhagnumdw
-  avatar: "assets/img/avatars/mhagnumdw_avatar.jpg"
-  url:
+craig: # author-id
+  name: "Craig"
+  avatar: "assets/img/avatars/CraigAvatar2SQ.png"
+  url: "https://blog.seaboxes.com"
+colleen: 
+  name: "Colleen"
+  avatar: "assets/img/avatars/ColleenAvatarSQ.jpg"
+  url: "https://blog.seaboxes.com"
 unknown:
   name: Unknown
   avatar:

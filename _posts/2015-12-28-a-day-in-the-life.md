@@ -4,50 +4,44 @@ title: A Day in The Life
 date: 2015-12-28 08:00
 author: seaboxes
 comments: true
-categories: [The Journey]
+tags: [journey, reality]
+color: purple
+author: Craig
 ---
-<div class="_2cuy _3dgx _2vxa"><em>Re-posted from FB note from 28 Dec 2015.</em></div>
-<div class="_2cuy _3dgx _2vxa"></div>
-<div class="_2cuy _3dgx _2vxa">Depending on the day and where we are I’ve tried to capture our “new normal”, how our daily routine has changed and what it looks like as well as <a href="https://www.facebook.com/media/set/?set=a.10153511821448509.1073741829.684173508&amp;type=1&amp;l=9f71288a0f">uploaded some photos</a>. There is so much more that goes on and happens, but hopefully this gives you a little bit of an idea.</div>
-<div class="_2cuy _3dgx _2vxa">At this stage a chemo cycle is 3 weeks long, 3-5 days of chemo as an inpatient hospital then 2ish weeks of “recovery” at home. Every week we have a day as an outpatient in clinic to have a check, get supplies/medications and replace dressings. Violets treatment will be 5 cycles like this, then surgery to remove the tumor then another chemo round before radiation and a few more chemo rounds. After that there is antibody therapy.</div>
-<h2 class="_2cuy _509y _2vxa">At Home</h2>
-<div class="_2cuy _3dgx _2vxa">Things haven’t changed that much at home, it’s just been getting use to the medication routine and keeping a little be it of a closer eye on Violet.</div>
-<ul class="_5a_q _5yj1">
-	<li class="_2cuy _509q _2vxa">0700 - stop continuous feed. Wake, sometimes we're lucky and the other kids will play quietly and Violet will sleep in</li>
-</ul>
-<figure class="_2cuy _4nuy _2vxa _3tvj">
-<div class="_h2x _h2y _4lh4">
+<i>Re-posted from FB note from 28 Dec 2015.</i>
 
-[caption id="" align="alignleft" width="236"]<img id="u_1c_0" class="_h2z _297z _4lh5 img" src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xlp1/v/t1.0-9/12390888_10153514375413509_5121507189237587628_n.jpg?oh=0bfe53726b647535108c9251bc3895f9&amp;oe=5727E252" alt="" width="236" height="419" /> Be-Bop.. the feeding pump, and his specially built pole and trundle.[/caption]
+Depending on the day and where we are I’ve tried to capture our “new normal”, how our daily routine has changed and what it looks like as well as <a href="https://www.facebook.com/media/set/?set=a.10153511821448509.1073741829.684173508&amp;type=1&amp;l=9f71288a0f">uploaded some photos</a>. There is so much more that goes on and happens, but hopefully this gives you a little bit of an idea.
 
-<div class="_h2w _50f8 _50f4">0730 - Breakfast &amp; start <a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBolus_%28medicine%29&amp;h=tAQHVfhVn&amp;s=1" target="_blank" rel="nofollow">bolus feed</a> via be-bop (feed pump for the <a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNasogastric_intubation&amp;h=qAQGhWwQO&amp;s=1" target="_blank" rel="nofollow">NG tube</a>)</div>
-</div>
-</figure>
-<ul class="_5a_q _5yj1">
-	<li class="_2cuy _509q _2vxa">0800 - Morning medications (slow release pain, anti fungal &amp; antibiotic[Mon-Wed])</li>
-	<li class="_2cuy _509q _2vxa">0830 - Bolus end</li>
-	<li class="_2cuy _509q _2vxa">Throughout day, if she's feeling nauseous we can give her <a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAntiemetic&amp;h=_AQHTsIqq&amp;s=1" target="_blank" rel="nofollow">antiemetics </a></li>
-	<li class="_2cuy _509q _2vxa">1200ish - Lunch &amp; bolus feed</li>
-	<li class="_2cuy _509q _2vxa">1600ish - <a href="https://www.facebook.com/l.php?u=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGranulocyte_colony-stimulating_factor&amp;h=tAQHVfhVn&amp;s=1" target="_blank" rel="nofollow">GCSF </a>injection</li>
-	<li class="_2cuy _509q _2vxa">1800 - Dinner, bolus feed &amp; antibiotic [Mon-Wed]</li>
-	<li class="_2cuy _509q _2vxa">2000 - slow release pain med</li>
-	<li class="_2cuy _509q _2vxa">2100 - start overnight continuous feed</li>
-</ul>
-<div class="_2cuy _3dgx _2vxa">But wait... just when you think you’re in a rhythm at home, there are any number of reasons to head back to hospital.. Temp above 38 / Shivering or unwell after central line access / Difficultly breathing / Bruising etc. As the immune system is beaten up during chemo <span class="_5yi_">any</span> infection can be very dangerous, so getting back to hospital to start observations and antibiotics is crucial.</div>
-<div class="_2cuy _3dgx _2vxa"></div>
-<div class="_2cuy _3dgx _2vxa"></div>
-<div class="_2cuy _3dgx _2vxa"></div>
-<div class="_2cuy _3dgx _2vxa"></div>
-<div class="_2cuy _3dgx _2vxa"></div>
-<div class="_2cuy _3dgx _2vxa"></div>
-<h2 class="_2cuy _509y _2vxa">Clinic day</h2>
-<ul class="_5a_q _5yj1">
-	<li class="_2cuy _509q _2vxa">0630 - Antiemetic before/when she wakes
+At this stage a chemo cycle is 3 weeks long, 3-5 days of chemo as an inpatient hospital then 2ish weeks of “recovery” at home. Every week we have a day as an outpatient in clinic to have a check, get supplies/medications and replace dressings. Violets treatment will be 5 cycles like this, then surgery to remove the tumor then another chemo round before radiation and a few more chemo rounds. After that there is antibody therapy.</div>
 
-[caption id="" align="alignright" width="388"]<img id="u_1c_1" class="_h2z _297z _4lh5 img" src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xlp1/v/t1.0-9/1916991_10153514317023509_1178611868892765555_n.jpg?oh=12990ef68b09ac3dbfe644f3c4f16772&amp;oe=57381910" alt="" width="388" height="218" /> I'm learning how to be a great backseat driver.[/caption]</li>
-	<li class="_2cuy _509q _2vxa">0700 - Wake</li>
-	<li class="_2cuy _509q _2vxa">0730 - Breakfast &amp; morning meds (slow release pain, anti fungal &amp; antibiotic[mon-wed])</li>
-	<li class="_2cuy _509q _2vxa">0800 - Drive in, hopefully antiemetic is working by then, but one of is sits in the back with Violet (to catch the motion sickness vomit)</li>
+## At Home
+Things haven’t changed that much at home, it’s just been getting use to the medication routine and keeping a little be it of a closer eye on Violet.
+* 0700 - stop continuous feed. Wake, sometimes we're lucky and the other kids will play quietly and Violet will sleep in</li>
+
+![Image of a feeding pump, Be-Bop.. the feeding pump, and his specially built pole and trundle.]({{ "/assets/img/posts/be-bop.jpg" | relative_url }})
+
+<img id="u_1c_0" class="_h2z _297z _4lh5 img" src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xlp1/v/t1.0-9/12390888_10153514375413509_5121507189237587628_n.jpg?oh=0bfe53726b647535108c9251bc3895f9&amp;oe=5727E252" alt="" width="236" height="419" /> 
+
+* 0730 - Breakfast & start [bolus feed](https://en.wikipedia.org/wiki/Bolus_%28medicine) via be-bop (feed pump for the [NG tube](https://en.wikipedia.org/wiki/Nasogastric_intubation))
+* 0800 - Morning medications (slow release pain, anti fungal & antibiotic[Mon-Wed])
+* 0830 - Bolus end
+* Throughout day, if she's feeling nauseous we can give her [antiemetics](https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAntiemetic)
+* 1200ish - Lunch & bolus feed
+* 1600ish - [GCSF](https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGranulocyte_colony-stimulating_factor) injection</li>
+* 1800 - Dinner, bolus feed & antibiotic [Mon-Wed]
+* 2000 - slow release pain med
+* 2100 - start overnight continuous feed
+
+But wait... just when you think you’re in a rhythm at home, there are any number of reasons to head back to hospital.. Temp above 38 / Shivering or unwell after central line access / Difficultly breathing / Bruising etc. As the immune system is beaten up during chemo <span class="_5yi_">any</span> infection can be very dangerous, so getting back to hospital to start observations and antibiotics is crucial.
+
+## Clinic day
+
+* 0630 - Antiemetic before/when she wakes
+
+[caption id="" align="alignright" width="388"]<img id="u_1c_1" class="_h2z _297z _4lh5 img" src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xlp1/v/t1.0-9/1916991_10153514317023509_1178611868892765555_n.jpg?oh=12990ef68b09ac3dbfe644f3c4f16772&amp;oe=57381910" alt="" width="388" height="218" /> I'm learning how to be a great backseat driver.[/caption]
+* 0700 - Wake
+* 0730 - Breakfast & morning meds (slow release pain, anti fungal & antibiotic[mon-wed])
+* 0800 - Drive in, hopefully antiemetic is working by then, but one of is sits in the back with Violet (to catch the motion sickness vomit)
 	<li class="_2cuy _509q _2vxa">0900 - Arrive and spend 5-20 mins looking for carpark</li>
 	<li class="_2cuy _509q _2vxa">0925 - Coffee (important part of every day)</li>
 	<li class="_2cuy _509q _2vxa">0930* - Checkin, get height and weight taken</li>
@@ -92,6 +86,7 @@ categories: [The Journey]
 <div class="_h2x _h2y _4lh4">
 
 [caption id="" align="alignright" width="484"]<img id="u_1c_3" class="_h2z _297z _4lh5 img" src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xlp1/v/t1.0-9/12369269_10153514095263509_1250944874638951825_n.jpg?oh=0db50d6fe01293b873984b0ae3a7af61&amp;oe=57291FA7" alt="" width="484" height="272" /> We've had to find another cupboard to keep all the medications in[/caption]
+![We've had to find another cupboard to keep all the medications i.]({{ "/assets/img/posts/medication.jpg" | relative_url }})
 
 </div>
 </figure>
@@ -109,6 +104,7 @@ categories: [The Journey]
 [caption id="" align="alignright" width="336"]<img id="u_1c_5" class="_h2z _297z _4lh5 img" src="https://scontent-lax3-1.xx.fbcdn.net/hphotos-xat1/v/t1.0-9/10441344_10153514098088509_258976589779282016_n.jpg?oh=bb1c8e6c3e31ad9ea4c8df39b48a1c63&amp;oe=57441DA9" alt="" width="336" height="189" /> ...couch during the day.[/caption]
 
 [caption id="" align="alignnone" width="357"]<img id="u_1c_4" class="_h2z _297z _4lh5 img" src="https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfp1/v/t1.0-9/12360152_10153514098298509_1558714566011022289_n.jpg?oh=7fd2c5cd679e11c32d00da333d4acc18&amp;oe=57343D25&amp;__gda__=1462893632_a83b9a8283a92def2662ec64a2d332ae" alt="" width="357" height="201" /> Bed at night...[/caption]
+
 
 </div>
 <div class="_2cuy _3dgx _2vxa"></div>

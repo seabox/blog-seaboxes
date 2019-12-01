@@ -1,10 +1,10 @@
 ---
 layout: post
-title: #HospitalHack 3 - Footwear
+title: &#35; HospitalHack 3 - Footwear
 date: 2016-09-05 20:19
-author: seaboxes
-comments: true
-categories: [HospitalHacks]
+author: craig
+color: rgb(10,70,10)
+tags: [HospitalHacks]
 ---
 What happens in hospital, stays in hospital.
 <ul>

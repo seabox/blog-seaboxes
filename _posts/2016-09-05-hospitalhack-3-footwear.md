@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &#35; HospitalHack 3 - Footwear
+title: HospitalHack 3 - Footwear
 date: 2016-09-05 20:19
 author: craig
 color: rgb(10,70,10)

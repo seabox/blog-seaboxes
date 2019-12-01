@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \#HospitalHack 3 - Footwear
+title: #HospitalHack 3 - Footwear
 date: 2016-09-05 20:19
 author: seaboxes
 comments: true

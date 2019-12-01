@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HospitalHack 2 - Pollyanna Positivity Principle
+title: #HospitalHack 2 - Pollyanna Positivity Principle
 date: 2016-05-09 20:46
 author: craig
 color: rgb(10,70,10)

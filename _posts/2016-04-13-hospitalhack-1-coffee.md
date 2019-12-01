@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \#HospitalHack 1 - Coffee
+title: #HospitalHack 1 - Coffee
 date: 2016-04-13 03:12
 author: craig
 color: rgb(10,70,10)

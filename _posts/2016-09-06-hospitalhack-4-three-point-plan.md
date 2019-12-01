@@ -12,5 +12,5 @@ The three point plan is simple:
 <p style="padding-left:30px;"><em>At any time, have three vomit bags visible.</em></p>
 You never know when you'll need it!
 
-![Image of socks in thongs](/assets/img/posts/threepoints.jpg "Three vomit bags in a row")
+![Image of vomit bags](/assets/img/posts/threepoints.jpg "Three vomit bags in a row")
 

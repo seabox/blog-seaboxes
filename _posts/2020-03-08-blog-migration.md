@@ -7,8 +7,7 @@ color: rgb(0, 160, 130)
 tags: [tech]
 ---
 
-# NOTE
-*this page is still in development.. I am jsut testing some links ATM, thank you*
+**NOTE:** *this page is still in development.. I am just testing some links ATM, thank you*
 
 I created this blog up as a place to write some lengthier detail about what's going on in the box clan. The goals were:
 - simplicity: both in design and how to create posts 
@@ -20,12 +19,12 @@ In short:
 - Was it worth it? Yes
 - Would I do it again? ... Hmmm... Maybe
 
-# Contents
+Contents...
 - [Simple process](#simple-process)
 - [Get HTTPs working](#get-https-working)
 
-* TOC
-{:toc}
+This can auto generate if I want... Jump to...
+* TOC {:toc}
 
 # Simple process:
 - Sign up to GitHub

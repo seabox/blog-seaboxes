@@ -7,6 +7,6 @@ tags: [index]
 ---
 
    {% for item in site.posts %}
-* <a href="{{ item.url }}">{{ item.title }}</a> {{ item.date | date: "%-d %B %Y" }}
+* <a href="{{ item.url }}">{{ item.title }}</a> *{{ item.date | date: "%-d %B %Y" }}*
    {% endfor %}
 

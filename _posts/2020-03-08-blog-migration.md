@@ -11,23 +11,22 @@ tags: [tech]
 *this page is still in development.. I am jsut testing some links ATM, thank you*
 
 I created this blog up as a place to write some lengthier detail about what's going on in the box clan. The goals were:
-- simplicy: both in design and how to create posts 
-- limited ads / ad free
-- use my own domain
-Wordpress was good for a while, the ad's were minimial  
+- simplicity: both in design and how to create posts 
+- limited ads / ad free
+- use my own domain
+Wordpress was good for a while, the ad's were minimal  
 
 In short:
-	- Was it worth it? Yes
-	- Would I do it again? ... Hmmm... Maybe
+- Was it worth it? Yes
+- Would I do it again? ... Hmmm... Maybe
 
 # Contents
-	- [Simple process](#simple-process)
-	- [Get HTTPs working](#get-https-working)
-
+- [Simple process](#simple-process)
+- [Get HTTPs working](#get-https-working)
 
 
 # Simple process:
-	- Sign up to GitHub
+- Sign up to GitHub
 	- Fork 
 
 ## Get Https working

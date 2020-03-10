@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrating from Wordpress to Github
-date: 2020-03-08 13:32
+date: 2020-03-07 13:32
 author: craig
 color: rgb(0, 160, 130)
 tags: [tech]
@@ -24,7 +24,8 @@ Contents...
 - [Get HTTPs working](#get-https-working)
 
 This can auto generate if I want... Jump to...
-* TOC {:toc}
+* TOC 
+{:toc}
 
 # Simple process:
 - Sign up to GitHub

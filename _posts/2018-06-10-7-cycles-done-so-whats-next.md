@@ -3,7 +3,7 @@ layout: post
 title: 7 Cycles Done, So What's Next?
 date: 2018-06-10 12:48
 author: craig
-color: rgb(10,70,10)
+color: rgb(0, 60, 150)
 tags: [The Journey]
 ---
 Chemo Cycle 7 done, only 10 to go, maybe… Last week we found out a little more about what's next. Before I explain that, I'll point out Neuroblastoma is complex, <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4418018/">this article</a> describes it well:

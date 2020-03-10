@@ -3,7 +3,7 @@ layout: post
 title: Simple Prayer
 date: 2019-01-02 07:17
 author: craig
-color: rgb(10,70,10)
+color: rgb(150, 60, 0)
 tags: [faith]
 ---
 There's a couple of prayers I say each day. They are simple for a few reasons:

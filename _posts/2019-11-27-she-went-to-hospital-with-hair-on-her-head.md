@@ -3,7 +3,7 @@ layout: post
 title: She went to hospital with hair on her head.
 date: 2019-11-27 12:21
 author: craig
-color: rgb(10,70,10)
+color: rgb(40, 0, 150)
 tags: [emotion]
 ---
 <!-- wp:paragraph -->

@@ -3,7 +3,7 @@ layout: post
 title: How have you done it... Really??
 date: 2017-08-20 19:34
 author: craig
-color: rgb(10,70,10)
+color: rgb(0, 160, 130)
 tags: [How do you do it]
 ---
 One of the things people said earlier this year was "I don't know how you've done it".  To tell you the truth, neither do I.  If I think about it, if we didn't, who would? The reality is we were in survival mode.

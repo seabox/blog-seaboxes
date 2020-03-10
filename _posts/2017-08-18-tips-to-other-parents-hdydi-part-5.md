@@ -3,7 +3,7 @@ layout: post
 title: Tips to other Parents [HDYDI - Part 5]
 date: 2017-08-18 20:16
 author: craig
-color: rgb(10,70,10)
+color: rgb(0, 80, 170)
 tags: [How do you do it]
 ---
 I read a post of a friend waking at 3am, thinking/worrying about their child and it reminded me of the early days with Violet. I wondered what would have helped me in the early days.

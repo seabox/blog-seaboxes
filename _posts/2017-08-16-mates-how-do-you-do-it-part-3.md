@@ -6,7 +6,7 @@ author: craig
 color: rgb(10,70,10)
 tags: [How do you do it]
 ---
-This time around on the HDYDI (<a href="https://seaboxes.wordpress.com/category/how-do-you-do-it/">How Do You Do It</a>) series I focus on me, a man, and what I think has helped me along the way. My hope is this will give other men ideas on how they could set themselves up with the support they need to "do life".
+This time around on the HDYDI (<a href="https://blog.seaboxes.com/2017/08/20/how-have-you-done-it-really.html">How Do You Do It</a>) series I focus on me, a man, and what I think has helped me along the way. My hope is this will give other men ideas on how they could set themselves up with the support they need to "do life".
 
 I credit a lot of why I've been able to cope to something I've gone to over the last handful of years, a mens night. It's a simple way for blokes to get together and share life. The easiest way to explain what I've got out of the group is by describing how it's run. It's evolved over the years, but in it's current form this is what goes on:
 <ul>

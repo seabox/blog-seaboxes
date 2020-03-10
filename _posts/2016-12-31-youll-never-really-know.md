@@ -4,9 +4,9 @@ title: You'll never really know
 date: 2016-12-31 15:25
 author: seaboxes
 comments: true
-categories: [The Journey]
+tags: [The Journey]
 ---
-I partially wrote this to remember how tough some things were/are. I partially wrote it so others might 'get it', knowing some never will. It's a slightly different view on my '<a href="https://seaboxes.wordpress.com/2016/09/20/i-see-you-friend/">I see you friend</a>' and '<a href="https://seaboxes.wordpress.com/2016/09/25/pre-admission-tradition/">pre-admission tradition</a>' posts.
+I partially wrote this to remember how tough some things were/are. I partially wrote it so others might 'get it', knowing some never will. It's a slightly different view on my '<a href="https://blog.seaboxes.com/2016/09/20/i-see-you-friend.html">I see you friend</a>' and '<a href="https://blog.seaboxes.com/2016/09/25/pre-admission-tradition.html">pre-admission tradition</a>' posts.
 
 There's a lot that can be inferred or assumed by a nice photo, forced smile or positive post, but there's also a lot that people don't see or feel. This post may be a little dark (which is not a place we usually are), but it's the reality of some of my thoughts and days.
 

@@ -18,10 +18,10 @@ The top 4 things that keep me going are…
 </ul>
 </li>
 	<li><strong>Inspiration</strong> - Pinterest is a great source for quotes images etc.</li>
-	<li><strong>Breathing</strong> - the meditation type stuff I learnt at <a href="https://seaboxes.wordpress.com/2017/08/16/mates-how-do-you-do-it-part-3/">a mens group</a> has helped heaps. I also watched a youtube on "<a href="https://www.youtube.com/watch?v=dpk_dssZXqs">the third space</a>" it's been good to context switch and focus - reflect - rest - reset</li>
+	<li><strong>Breathing</strong> - the meditation type stuff I learnt at <a href="https://blog.seaboxes.com/2017/08/16/mates-how-do-you-do-it-part-3.html">a mens group</a> has helped heaps. I also watched a youtube on "<a href="https://www.youtube.com/watch?v=dpk_dssZXqs">the third space</a>" it's been good to context switch and focus - reflect - rest - reset</li>
 	<li><strong>Mates</strong> - some people will never get it, but good friends have allowed me to just call them and blow off steam</li>
 </ol>
-For each of these I have a strong God element to (as I shared in <a href="https://seaboxes.wordpress.com/2017/08/14/god-how-do-you-do-it-part-1/">Part 1</a>), which for me takes a huge burden away, but I know for some people that's not the case.
+For each of these I have a strong God element to (as I shared in <a href="https://blog.seaboxes.com/2017/08/14/god-how-do-you-do-it-part-1.html">Part 1</a>), which for me takes a huge burden away, but I know for some people that's not the case.
 
 Other things that help, that vary on importance depending on the circumstance are:
 <ul>
@@ -36,7 +36,7 @@ Other things that help, that vary on importance depending on the circumstance ar
 </li>
 	<li>Know yourself
 <ul>
-	<li>I get hangry, it took me a few months to realise that it was a good idea to get up and eat before Violet woke in hospital, otherwise I'd end up grumpy, I've also previously written about the <a href="https://seaboxes.wordpress.com/2016/09/25/pre-admission-tradition/">emotions I go though before a hospital stay</a></li>
+	<li>I get hangry, it took me a few months to realise that it was a good idea to get up and eat before Violet woke in hospital, otherwise I'd end up grumpy, I've also previously written about the <a href="/2016/09/25/pre-admission-tradition.html">emotions I go though before a hospital stay</a></li>
 	<li>I get comfort in order and organisation. Cancer is neither of these things, but I found if I could get some routine, organisation I'd feel better. One of the ways I did this is having a couple of notebooks that I captured different things: Inspiration, Funny things that happen, Overall dates, Medications, Questions for doctors, Hospital day trip checklist, Hospital admission checklist.</li>
 	<li>I've learnt that I enjoy writing out my thoughts, whether I share them or not, it helps me put my thoughts to rest and stops me dwelling on them</li>
 </ul>

@@ -2,7 +2,7 @@
 layout: post
 title: Practice doesn't always make perfect
 date: 2016-07-21 21:19
-author: craig
+author: colleen
 color: rgb(10,70,10)
 tags: [The Journey]
 ---

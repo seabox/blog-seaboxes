@@ -2,8 +2,8 @@
 layout: post
 title: You'll never really know
 date: 2016-12-31 15:25
-author: seaboxes
-comments: true
+author: craig
+color: rgb(10,70,10)
 tags: [The Journey]
 ---
 I partially wrote this to remember how tough some things were/are. I partially wrote it so others might 'get it', knowing some never will. It's a slightly different view on my '<a href="https://blog.seaboxes.com/2016/09/20/i-see-you-friend.html">I see you friend</a>' and '<a href="https://blog.seaboxes.com/2016/09/25/pre-admission-tradition.html">pre-admission tradition</a>' posts.

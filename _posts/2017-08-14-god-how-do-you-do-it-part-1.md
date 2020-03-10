@@ -8,7 +8,6 @@ tags: [How do you do it, faith]
 ---
 A lot of people commented on how strong we are through Violets cancer journey; one of our friends early on created this artwork which encompasses one of the main feelings we had.
 
-<img src="/assets/img/posts/carriedaa.jpg" alt="Carried" width="450" height="450" />
 ![Scrabble carried](/assets/img/posts/carriedaa.jpg "Carried art")
 
 We are <strong>carried</strong> by our Lord and Saviour Jesus Christ.

@@ -23,7 +23,8 @@ In short:
 # Contents
 - [Simple process](#simple-process)
 - [Get HTTPs working](#get-https-working)
-
+* TOC
+{:toc}
 
 # Simple process:
 - Sign up to GitHub

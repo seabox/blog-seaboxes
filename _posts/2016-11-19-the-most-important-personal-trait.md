@@ -4,7 +4,7 @@ title: The most important personal trait
 date: 2016-11-19 07:39
 author: craig
 color: rgb(10,70,10)
-tags: [emotions]
+tags: [Emotions]
 ---
 A trait that I highly rate is humility.
 

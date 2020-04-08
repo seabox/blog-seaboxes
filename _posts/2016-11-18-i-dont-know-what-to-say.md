@@ -4,7 +4,7 @@ title: I don't know what to say
 date: 2016-11-18 20:50
 author: craig
 color: rgb(10,70,10)
-tags: [emotions]
+tags: [Emotions]
 ---
 A couple of colleagues pulled me aside at different times over the last few weeks and said something similar to "I really feel for you, I'm sorry I haven't said anything until now, but I didn't know what to say".
 

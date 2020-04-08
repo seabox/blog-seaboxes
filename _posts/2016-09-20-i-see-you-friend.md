@@ -4,7 +4,7 @@ title: I see you friend...
 date: 2016-09-20 21:17
 author: craig
 color: rgb(10,70,10)
-tags: [emotions]
+tags: [Emotions]
 ---
 I see you friend… Swimming with kids... My child has a central line, so showering or swimming is not possible.
 

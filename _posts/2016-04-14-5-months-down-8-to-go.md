@@ -4,7 +4,7 @@ title: 5 months down… 8 to go
 date: 2016-04-14 15:05
 author: craig
 color: rgb(10,70,10)
-tags: [The Journey, treatment detail]
+tags: [The Journey, Treatment Detail]
 ---
 As we say goodbye to the induction phase we now have more clarity on what lies ahead for Violet in the consolidation and maintenance phases. This is a marathon, the finish line is not in sight yet, but we continue to run!
 

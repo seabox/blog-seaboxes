@@ -4,7 +4,7 @@ title: Migrating from Wordpress to Github
 date: 2020-03-08 13:32
 author: craig
 color: rgb(0, 160, 130)
-tags: [tech]
+tags: [Tech]
 ---
 
 **NOTE:** *this page is still in development.. I am just testing some links ATM, thank you*

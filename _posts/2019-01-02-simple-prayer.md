@@ -4,7 +4,7 @@ title: Simple Prayer
 date: 2019-01-02 07:17
 author: craig
 color: rgb(150, 60, 0)
-tags: [faith]
+tags: [Faith]
 ---
 There's a couple of prayers I say each day. They are simple for a few reasons:
 1) So I can remember them when I'm tired and my brain is fried

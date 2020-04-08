@@ -4,7 +4,7 @@ title: The Treatment Plan
 date: 2016-02-07 10:01
 author: craig
 color: rgb(10,70,10)
-tags: [journey, treatment detail]
+tags: [The Journey, Treatment Detail]
 ---
 ![Image of a Induction cycle](/assets/img/posts/inductioncycle.png "Induction cycle")
 

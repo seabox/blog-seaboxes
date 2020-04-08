@@ -4,7 +4,7 @@ title: James has it WRONG!
 date: 2016-11-20 13:32
 author: craig
 color: rgb(10,70,10)
-tags: [faith]
+tags: [Faith]
 ---
 <a href="https://www.bible.com/bible/116/jas.1.2.NLT">James 1:2</a> has it seriously wrong...
 <p style="padding-left:30px;"><em>when troubles of any kind come your way, consider it an opportunity for great joy.</em></p>

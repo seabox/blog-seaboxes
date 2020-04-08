@@ -4,7 +4,7 @@ title: She went to hospital with hair on her head.
 date: 2019-11-27 12:21
 author: craig
 color: rgb(40, 0, 150)
-tags: [emotion]
+tags: [Emotions]
 ---
 <!-- wp:paragraph -->
 <p>Bony growth has stopped. Yay.<br>But disease has progressed in her marrow. No! Not again!!<br>She's quite unwell. When do you want to start? Tomorrow?<br>Premeds. Long lasting antiemetics. Diuretics.<br>Drip, drip, drip. Hyper hydration. Weigh the output.<br>Familiar friendly faces, in a way we're home again, but not where we want to be.<br>Ahh, that wasn't as bad as it could be.</p>

@@ -4,7 +4,7 @@ title: How Can I Help?
 date: 2016-02-03 06:08
 author: craig
 color: rgb(10,70,10)
-tags: [help]
+tags: [How do you do it]
 ---
 We’ve been asked many times how can you help. We've actually been overwhelmed with support, so much so that we created a [facebook group](https://www.facebook.com/groups/violethelp/) *that is no longer use* to organise everyone.
 

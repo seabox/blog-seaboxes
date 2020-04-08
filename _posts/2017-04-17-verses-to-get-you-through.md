@@ -4,7 +4,7 @@ title: Verses to get you through
 date: 2017-04-17 15:16
 author: craig
 color: rgb(10,70,10)
-tags: [faith]
+tags: [Faith]
 ---
 It's no secret we've spent a lot of time in the Bible during Violets treatment. Many Bible studies, devotionals and Pintrest sessions lead to the list below. You may notice some duplicates below as Bible versions bring out different emphasis. I'm sure I've missed some verses but I hope you find some inspiration in His word, just as we have.
 

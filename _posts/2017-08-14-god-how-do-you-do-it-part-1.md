@@ -4,7 +4,7 @@ title: God [HDYDI - Part 1]
 date: 2017-08-14 19:51
 author: craig
 color: rgb(10,70,10)
-tags: [How do you do it, faith]
+tags: [How do you do it, Faith]
 ---
 A lot of people commented on how strong we are through Violets cancer journey; one of our friends early on created this artwork which encompasses one of the main feelings we had.
 

@@ -3,7 +3,7 @@ layout: post
 title: A Day in The Life
 date: 2015-12-28 08:00
 author: seaboxes
-tags: [journey, reality]
+tags: [The Journey, reality]
 color:  rgb(80,10,150)
 author: craig
 ---

@@ -65,5 +65,6 @@ https://github.com/theaob/wpXml2Jekyll
 ## Stuff that I'm not overly happy with, but can deal with it
 
 	- Images
+	- Spell check - I'm relying on VSCode - maybe I should a plugin, yes problem solved
 
 

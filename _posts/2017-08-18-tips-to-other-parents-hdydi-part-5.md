@@ -18,10 +18,10 @@ The top 4 things that keep me going are…
 </ul>
 </li>
 	<li><strong>Inspiration</strong> - Pinterest is a great source for quotes images etc.</li>
-	<li><strong>Breathing</strong> - the meditation type stuff I learnt at <a href="https://blog.seaboxes.com/2017/08/16/mates-how-do-you-do-it-part-3.html">a mens group</a> has helped heaps. I also watched a youtube on "<a href="https://www.youtube.com/watch?v=dpk_dssZXqs">the third space</a>" it's been good to context switch and focus - reflect - rest - reset</li>
+	<li><strong>Breathing</strong> - the meditation type stuff I learnt at <a href="/2017/08/16/mates-how-do-you-do-it-part-3.html">a mens group</a> has helped heaps. I also watched a youtube on "<a href="https://www.youtube.com/watch?v=dpk_dssZXqs">the third space</a>" it's been good to context switch and focus - reflect - rest - reset</li>
 	<li><strong>Mates</strong> - some people will never get it, but good friends have allowed me to just call them and blow off steam</li>
 </ol>
-For each of these I have a strong God element to (as I shared in <a href="https://blog.seaboxes.com/2017/08/14/god-how-do-you-do-it-part-1.html">Part 1</a>), which for me takes a huge burden away, but I know for some people that's not the case.
+For each of these I have a strong God element to (as I shared in <a href="/2017/08/14/god-how-do-you-do-it-part-1.html">Part 1</a>), which for me takes a huge burden away, but I know for some people that's not the case.
 
 Other things that help, that vary on importance depending on the circumstance are:
 <ul>

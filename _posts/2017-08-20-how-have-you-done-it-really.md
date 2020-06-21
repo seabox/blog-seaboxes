@@ -17,4 +17,5 @@ If I think about how have we've done it, I can think of a number of things that 
 	<li><a href="/2017/08/16/mates-how-do-you-do-it-part-3">Mates</a></li>
 	<li><a href="/2017/08/17/community-hdydi-part-4">Community</a></li>
 	<li><a href="/2017/08/18/tips-to-other-parents-hdydi-part-5">Tips I'd give myself</a> at the beginning</li>
+	<li><a href="/2020/06/16/breathing-hdydi-part-6">Breathing</a>*added June 2020*</li>
 </ol>

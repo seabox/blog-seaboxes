@@ -18,12 +18,12 @@ Earlier today I shared a [very appropriate drawing](https://www.facebook.com/red
 <div class="fb-post" data-href="https://www.facebook.com/redkitecharity/posts/10158693028219684" data-show-text="true" data-width=""><blockquote cite="https://developers.facebook.com/redkitecharity/posts/10158693028219684" class="fb-xfbml-parse-ignore"><p>They fight like cats and dogs, but they love each other like no one else in the family. Siblings share a special...</p>Posted by <a href="https://www.facebook.com/redkitecharity/">Redkite</a> on&nbsp;<a href="https://developers.facebook.com/redkitecharity/posts/10158693028219684">Wednesday, May 13, 2020</a></blockquote></div>
 
 ...that's our girls! They had a great weekend together and at one point they were being their dramatic selves. Giving reach other a pep talk, putting emphasis on different words in this quote. 
-**WHEN** you focus on the good the good gets better
-when **YOU** focus on the good the good gets better
-when you **FOCUS** on the good the good gets better
-when you focus **ON** the good the good gets better
-when you focus on **THE** good the good gets better
-etc..
+**WHEN** you focus on the good the good gets better<br/>
+when **YOU** focus on the good the good gets better<br/>
+when you **FOCUS** on the good the good gets better<br/>
+when you focus **ON** the good the good gets better<br/>
+when you focus on **THE** good the good gets better<br/>
+etc..<br/>
 At the time I just rolled my eyes and smiled.
 
 So today, after the usual long day of waiting on the day ward we made it up to the inpatient ward. Violet lost a craft project on the way to the ward, then we got a shared room. Tears. We've been in this place before and have a billion mental models to try and shift to a better mindset. We've met some wonderful people in shared rooms over the years, but it's nowhere near as comfortable as a single, I know where she's coming from. As I roll out whatever I can to try and shift things (we got the window, the other bed is currently empty, we could be on a different ward, oh look there's that cool nurse you like) Violet says to me "you know what my sister says", "When you focus on the good. The good gets better".

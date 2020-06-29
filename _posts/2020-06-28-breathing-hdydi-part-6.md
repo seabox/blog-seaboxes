@@ -51,4 +51,6 @@ I'll keep learning and looking at other resources and practicing mindfulness. Su
 * Read [a beginners guide to starting mindfulness](https://www.shannonharvey.com/blogs/blog/my-year-of-living-mindfully-a-beginners-guide-to-starting-a-mindfulness-practice)  
 * Decide when each day you will make 5 minutes to start
 * Get an app that has a "getting started" or "beginners guide" *(after much deliberation I chose Headspace because of the way it was structured and the male voice, but I did look into Calm, Smiling Mind, Insight timer, Ten Percent Happier. Try one, if you don't like it try another, but just stick with one)*
-* [Just Do It](https://youtu.be/Lp7E973zozc) 
+* [Just Do It](https://youtu.be/Lp7E973zozc)   
+
+This post is part of my [How do you do it](/2017/08/20/how-have-you-done-it-really) series click the tag below are see the [intro post here](/2017/08/20/how-have-you-done-it-really).

@@ -6,19 +6,19 @@ author: craig
 color: rgb(10,70,10)
 tags: [How do you do it]
 ---
-A few things happened recently where the penny finally dropped for me.
-I was talking with someone going through a tough time, they were asking me what to do. I said "Breathe". They responded "What?". I proceeded to explain as simple as it sounds try and slow your thoughts and focus on what's happening now by just stopping...
-And... 
-Breathing...
-Slower.
+A few things happened recently where the penny finally dropped for me.  
+I was talking with someone going through a tough time, they were asking me what to do. I said "Breathe". They responded "What?". I proceeded to explain as simple as it sounds try and slow your thoughts and focus on what's happening now by just stopping...  
+And...  
+Breathing...  
+Slower.  
 
 A few days later [redkite was asking](https://www.facebook.com/redkitecharity/photos/a.200618619683/10158788184749684/) what would you say to parent who was just diagnosed. My response was, Breathe. 
-![Image of a comment from facebook that says Breathe](/assets/img/posts/breathe-comment.png "Breathe Comment")
+![Image of a comment from facebook that says Breathe](/assets/img/posts/breathe-comment.png "Breathe Comment")  
 
-It feels a little odd that something so simple helps so much, but it does, and it can be taken to the next level. 
+It feels a little odd that something so simple helps so much, but it does, and it can be taken to the next level.   
 What? Breathing to the next level?  
-Yes.
-But before half the readers disappear, just stick with me for a bit. 
+Yes.  
+But before half the readers disappear, just stick with me for a bit.   
 No, I'm not talking about hyperventilating. I'm talking about mindfulness meditation. 
 
 When I thought of meditation, I thought of a stereotypical vegan zen monk burning incense or hippies drinking kombucha, raking sand, balancing stones and sitting cross-legged under a tepee. *(oops, there gos the other half of my readers)*. Sorry! I'm not meaning to offend, but none of that is me, and further to that I thought meditation was not aligned with my faith because I hadn't seen it in church. Reality is I don't need to be a monk or hippy, it's not complicated, I don't need a tepee, it's mentioned multiple times in the bible AND you can stop, breathe, be aware and observe your thoughts anywhere.

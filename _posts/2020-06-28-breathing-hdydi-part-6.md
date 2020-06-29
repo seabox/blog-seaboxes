@@ -32,13 +32,14 @@ During this time of telling others to breathe, my ["coach"](/2020/06/29/sea-kelp
 [a beginners guide to starting mindfulness](https://www.shannonharvey.com/blogs/blog/my-year-of-living-mindfully-a-beginners-guide-to-starting-a-mindfulness-practice) blog post. **Mind blown!** Here was a guide to someone getting rid of the marketing fluff, simplifying things, giving mindfulness a red hot go and documenting it.
 
 ### Fast forward a few weeks and where am I at? 
-* I've subscribed to the Headspace app and completed all the basics courses 
+* I've subscribed to the Headspace app and completed almost all the basics courses 
 * I make time (usually in the morning) to spend some time meditating
 * I've encouraged the family to give it a go too
-* I feel good, a lot less flustered and calm
+* I feel good, a lot less flustered and more calm (mostly)
 * There's been tough days - sometimes it's REALLY REALLY HARD to just sit and breathe
 * It's not what I initially thought it would be like
 * I'm not perfect - I still lose my marbles 
+* The more I learn, the more I learn there is to learn - I'm starting to see how different variants of meditation and mindfulness can be used, but the first step is, breathing.
 
 ### Where to next?  
 I think I might do a Mindfulness Based Stress Reduction course, because it's one thing to listen to apps and podcasts, but it's another to get direction from a professional.
@@ -49,5 +50,5 @@ I'll keep learning and looking at other resources and practicing mindfulness. Su
 * Have an open mind
 * Read [a beginners guide to starting mindfulness](https://www.shannonharvey.com/blogs/blog/my-year-of-living-mindfully-a-beginners-guide-to-starting-a-mindfulness-practice)  
 * Decide when each day you will make 5 minutes to start
-* Get an app that has a "getting started" or "beginners guide" 
+* Get an app that has a "getting started" or "beginners guide" *(after much deliberation I chose Headspace because of the way it was structured and the male voice, but I did look into Calm, Smiling Mind, Insight timer, Ten Percent Happier. Try one, if you don't like it try another, but just stick with one)*
 * [Just Do It](https://youtu.be/Lp7E973zozc) 

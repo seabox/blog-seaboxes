@@ -3,7 +3,7 @@ layout: post
 title: Breathing [HDYDI - Part 6]
 date: 2020-06-16 20:08
 author: craig
-color: rgb(158, 228, 247)
+color: rgb(100, 150, 170)
 tags: [How do you do it]
 ---
 A few things happened recently where the penny finally dropped for me.  

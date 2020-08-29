@@ -3,7 +3,7 @@ layout: post
 title: Complexity of community reaction to DFV
 date: 2020-08-30 05:16
 author: craig
-color: rgb(53, 74, 84)
+color: rgb(0, 160, 130)
 tags: [Learning]
 ---
 

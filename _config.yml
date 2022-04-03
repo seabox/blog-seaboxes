@@ -27,7 +27,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://docs.github.com/en/pages">GitHub Pages</a>
 
 # Blog
-excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
+excerpt: truncate                                       # true for long, "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
@@ -35,7 +35,7 @@ color_image: /assets/img/lineart.png                    # A bit transparent for 
 katex: true                                             # Enable if using math markup
 google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: false                                   # To respect the usage of cookies
-color_theme: auto                                       # auto, dark or light
+color_theme: dark                                       # auto, dark or light
 
 ##OLD Version:
 # disqus_shortname:                                       # Your discus shortname for comments

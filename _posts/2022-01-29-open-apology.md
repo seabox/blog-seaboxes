@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Open Apology
-date: 2022-01-12 10:00
+date: 2022-01-29 10:00
 author: craig
 color: rgb(53, 74, 84)
 tags: [The Journey]

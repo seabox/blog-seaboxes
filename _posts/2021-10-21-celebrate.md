@@ -12,7 +12,7 @@ On Thursday 21st October 2021 at 10.30am at C3 Church Bridgeman Downs we celebra
 Although the links below will never be like it was on that day, they give an indication of what the day was like.
 
 * [Celebration Service Recording](https://bit.ly/VioletsCelebration)
-* [Order of Service](assets/img/posts/celebration-orderofservice.pdf)
+* [Order of Service](/assets/img/posts/celebration-orderofservice.pdf)
 * [Memorial / Condolences book](https://bit.ly/VioletMemorial)
 * [Eulogy](/2021/10/21/eulogy)
 * [Life in Pictures](https://youtu.be/njyVaBuVSPw) 
@@ -22,4 +22,4 @@ Although the links below will never be like it was on that day, they give an ind
 * [Facebook page](https://www.facebook.com/VioletsOfTomorrow) (Violets of Tomorrow) for random updates
 
 
-![Headshot of Violet Ruth Box](assets/img/posts/celebration-violethero.jpg)
+![Headshot of Violet Ruth Box](/assets/img/posts/celebration-violethero.jpg)

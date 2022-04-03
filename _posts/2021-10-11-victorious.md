@@ -3,7 +3,7 @@ layout: post
 title: Victorious
 date: 2021-10-11 22:10
 author: craig
-color: rgb(53, 74, 84)
+color: rgb(0, 120, 100)
 tags: [The Journey]
 ---
 

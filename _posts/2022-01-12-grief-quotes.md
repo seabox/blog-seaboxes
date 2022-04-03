@@ -26,6 +26,6 @@ love and grief are two sides of the same precious coin. One does not—and canno
 
 Never. We never lose our loved ones. They accompany us; they don’t disappear from our lives. We are merely in different rooms.
 
-People often say to me, whydo they talk of the ones they have lost so much?
+People often say to me, why do they talk of the ones they have lost so much?
 The answer is simple...
 If you only have memories of the ones you love, the only way to bring them into the now, and to ensure they are part of your future, is by talking about them.

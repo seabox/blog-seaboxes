@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Victorious
+title: Church Thanks
 date: 2021-10-17 08:30
 author: craig
 color: rgb(0, 120, 100)

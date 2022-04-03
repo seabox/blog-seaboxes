@@ -23,8 +23,9 @@ vimeo:
 wordpress:
 youtube:
 
-# Share button options
+# For the share button options at the bottom of the articles
 share:
+  email: true
   facebook: true
   twitter: 
   tumblr:
@@ -33,4 +34,3 @@ share:
   reddit: 
   linkedin:
   wordpress:
-  email: true

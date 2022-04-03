@@ -8,30 +8,21 @@ figure {
   margin: 0;
 }
 
-// For correct line number width in Github Gists
-.gist table tbody tr td {
-  box-sizing: content-box;
-}
-
-pre {
-  overflow-x: scroll;
-}
-
 html {
-  background: $background-color;
+  background: var(--background);
 }
 
 // Typography
 ::selection {
-  background: $selection-color;
+  background: var(--selection);
 }
 
 ::-moz-selection {
-  background: $selection-color;
+  background: var(--selection);
 }
 
 body {
-  color: $text-color;
+  color: var(--text);
   font-family: $font-family-main;
   font-size: $font-size;
   word-wrap: break-word;
@@ -48,7 +39,7 @@ h6 {
   margin: 0.67em 0;
 
   a {
-    color: $text-color;
+    color: var(--text);
   }
 
 }
@@ -76,6 +67,8 @@ object,
 video {
   max-width: 100%;
   padding: 0 9%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img[align=left] {
@@ -84,6 +77,10 @@ img[align=left] {
 
 img[align=right] {
   margin-left: 3%;
+}
+
+summary {
+  cursor: pointer;
 }
 
 /* ---- Responsive ---- */
@@ -103,12 +100,6 @@ img[align=right] {
   }
   p, li, td {
     font-size: 0.8em;
-  }
-  li li{
-    font-size: 0.95em;
-  }
-  li li *{
-    font-size: 1em;
   }
 
   iframe,
@@ -137,10 +128,10 @@ img[align=right] {
   p, li, td {
     font-size: 0.8em;
   }
-  li li{
+  li li {
     font-size: 0.95em;
   }
-  li li *{
+  li li * {
     font-size: 1em;
   }
 
@@ -150,29 +141,29 @@ img[align=right] {
 }
 
 blockquote {
-  border-left: 2px solid darken($blockquote-color, 20%);
+  border-left: 2px solid #9fd2e3;
   margin: 1em 1em;
   padding: 0.75em 1em;
-  background-color: $blockquote-color;
-  box-shadow: 0 2px 2px $border-color;
+  background-color: var(--blockquote);
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
 }
 
-blockquote p:last-child,
-footer p:last-child {
+blockquote *:last-child,
+footer *:last-child {
   margin-bottom: 0;
 }
 
 table {
+  word-wrap: break-word;
   table-layout: fixed;
   width: 100%;
-  word-wrap: break-word;
   display: inline-block;
 }
 
 td,
 th {
   padding: 0.5em 1em;
-  border: 1px solid $border-color;
+  border: 1px solid var(--border);
   text-align: left;
 }
 
@@ -200,15 +191,10 @@ dl,
   margin-bottom: 1em;
 }
 
-// KaTeX math display
-.math-display {
-  display: inline-block;
-  width: 100%;
-}
-
 // Lists within lists
 li {
   p {
+    font-size: inherit;
     display: inline;
   }
 
@@ -227,13 +213,13 @@ ul {
 
 hr {
   border: 0;
-  border-top: 1px solid $border-color;
+  border-top: 1px solid var(--border);
   border-bottom: 1px solid #fff;
   margin: 1em 0;
 }
 
 a {
-  color: $link-color;
+  color: var(--link);
   text-decoration: none;
 }
 
@@ -249,4 +235,38 @@ kbd {
   line-height: 1;
   padding: 2px 4px;
   white-space: nowrap;
+}
+
+// Cookie consent
+#cookie-notice {
+  padding: 0.5rem 1rem;
+  display: none;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: rgba(2, 2, 2, 0.85);
+  color: lightgray;
+  z-index: 1000;
+
+  & a {
+    display: inline-block;
+    cursor: pointer;
+    margin-left: 0.6rem;
+  }
+}
+
+// Mermaid
+.mermaid {
+  background-color: rgba(255, 255, 255, 0.9);
+  border-radius: 2%;
+
+  & > svg {
+    margin: auto;
+    display: block;
+    height: auto;
+    padding-bottom: 2em;
+    padding-top: 2em;
+    max-width: 100%;
+  }
 }

@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Generate a table of content
-tags: [toc.js, kramdown, Markdown, Customization]
+tags: [Kramdown, Customization]
 author: sylhare
 excerpt_separator: <!--more-->
 ---
-
-Test article, get the source on [github](https://github.com/Sylhare/Type-on-Strap/blob/gh-pages/_posts/2013-12-12-toc.js-for-table-of-content.md).
 
 # Using Kramdown GFM <!--more-->
 
@@ -15,7 +13,6 @@ Test article, get the source on [github](https://github.com/Sylhare/Type-on-Stra
 {:toc}
 
 ## Basic Usage
-
 
 You need to put this at the beginning of the page where you want the table of content to be displayed
 
@@ -77,6 +74,8 @@ $(document).ready(function() {
 ```
 
 ## How it would look like
+
+So you can get a feel of it.
 
 ![image](https://user-images.githubusercontent.com/20642750/39189661-c22099f2-47a0-11e8-826e-2ec3ef4cc4f4.png)
 

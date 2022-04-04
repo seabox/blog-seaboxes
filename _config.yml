@@ -1,72 +1,57 @@
-# Required and can't be changed (ie. set by gihub - https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
-source: . # Where things are . ie repo's top level directory
-lsi: false # Conversion
-safe: true # Handling Reading
-incremental: false # Conversion
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-
 # SITE CONFIGURATION
 baseurl: "/"
 url: "https://blog.seaboxes.com" #Raw URL https://seabox.github.io/blog-seaboxes
 
 # THEME-SPECIFIC CONFIGURATION
 title: Seaboxes Blog                                    # site's title
-description: "Updates from the Box clan."      # used by search engines
+description: "Updates from the Box clan."               # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Seaboxes Blog                                        # Change Blog header text
 header_feature_image: assets/img/posts/cropped-box056.jpg
+header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://docs.github.com/en/pages">GitHub Pages</a>
 
 # Blog
-excerpt: truncate                                       # true for long, "truncate" (first 250 characters), "false" to disable
+excerpt: truncate                                           # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
 # Features
 # More in the _data folder for share buttons, author and language
 # For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
-katex: true                                             # Enable if using math markup
-mermaid: true                                           # Enable mermaid-js for sequence and diagrams
+katex: false                                            # Enable if using math markup
+mermaid: false                                          # Enable mermaid-js for sequence and diagrams
 google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: false                                   # To respect the usage of cookies
 color_theme: dark                                       # auto, dark or light
 
-##OLD Version:
-# disqus_shortname:                                       # Your discus shortname for comments
-# layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
-# footer_icons:                                           # In _data/social.yml
-# share_buttons:                                          # In _data/social.yml
-# authors:                                                # In _data/authors.yml
-# language:                                               # In _data/language.yml
+# Comments
+comments:
+  disqus_shortname:                                     # Your discus shortname for comments
+  cusdis_app_id:                                        # Your cusdis data-app-id
+  utterances:                                           # Enable by filling below information. For more info, go to https://utteranc.es
+    repo:                                               # your public comments repository (e.g. owner/repo)
+    issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
 
 # PAGINATION
-paginate: 6
-paginate_path: "blog/page:num"
+paginate: 5
+paginate_path: "/blog/page:num"
 
 # PORTFOLIO
 collections:
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:name
 
 # BUILD SETTINGS
-markdown: kramdown
-#highlighter: rouge
 sass:
   style: compressed
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
-# remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
-
-# theme: jekyll-theme-midnight
+remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github

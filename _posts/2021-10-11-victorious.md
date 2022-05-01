@@ -4,7 +4,7 @@ title: Victorious
 date: 2021-10-11 22:10
 author: craig
 color: rgb(0, 120, 100)
-tags: [The Journey]
+tags: [Violets Victory]
 ---
 
 At 12 years and 6 days old, this evening Violet passed away at home. 

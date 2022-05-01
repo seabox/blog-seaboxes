@@ -3,7 +3,7 @@ layout: post
 title: Celebration
 date: 2021-10-21 10:30
 author: craig
-color: rgb(53, 74, 84)
+color: rgb(215, 187, 187)
 bootstrap: true
 tags: [The Journey, Violets Victory]
 ---
@@ -29,5 +29,3 @@ Although the links below will never be like it was on that day, they give an ind
     <p class="card-text">Violet Ruth Box<br/>5 October 2009 - 11 October 2021</p>
   </div>
 </div>
-
-![Headshot of Violet Ruth Box](/assets/img/posts/celebration-violethero.jpg)

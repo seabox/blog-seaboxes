@@ -4,7 +4,7 @@ title: Church Thanks
 date: 2021-10-17 08:30
 author: craig
 color: rgb(0, 120, 100)
-tags: [The Journey]
+tags: [Violets Victory]
 ---
 
 The Sunday after Violet passed, I had it on my heart to personally thank our church, I was able to attend worship then say a few words to the congregation.

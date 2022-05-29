@@ -20,12 +20,17 @@ When we lose someone we love we must learn not to live without them, but to live
 
 Grief only exists where love lived first.
 
-We begin to remember not just that you died but that you lived. And that your life gave us memories too beautiful to forget
+We begin to remember not just that you died but that you lived. And that your life gave us memories too beautiful to forget.
 
-love and grief are two sides of the same precious coin. One does not—and cannot—exist without the other.
+Love and grief are two sides of the same precious coin. One does not—and cannot—exist without the other.
 
 Never. We never lose our loved ones. They accompany us; they don’t disappear from our lives. We are merely in different rooms.
 
 People often say to me, why do they talk of the ones they have lost so much?
 The answer is simple...
 If you only have memories of the ones you love, the only way to bring them into the now, and to ensure they are part of your future, is by talking about them.
+
+“Remember me and smile, for it's better to forget than to remember me and cry.”
+― Dr. Seuss
+
+“Say not in grief that she is no more, but say in thankfulness that she was.” — Hebrew proverb.

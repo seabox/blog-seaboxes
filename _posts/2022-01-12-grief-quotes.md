@@ -20,6 +20,8 @@ When we lose someone we love we must learn not to live without them, but to live
 
 Grief only exists where love lived first.
 
+Grief isn't an individual feeling/emotion, it can be more like a combination, if feelings were notes on a piano, grief would be like playing a chord (eg. sorrow + frustration + joy = c major = heavy feeling = grief 🤷🏼‍♂️).
+
 We begin to remember not just that you died but that you lived. And that your life gave us memories too beautiful to forget.
 
 Love and grief are two sides of the same precious coin. One does not—and cannot—exist without the other.

@@ -1,5 +1,4 @@
 name: Publish Ruby Gem
-  enabled: false
   
 on:
   push:

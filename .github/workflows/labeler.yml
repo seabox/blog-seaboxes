@@ -1,9 +1,8 @@
 name: "Issue Labeler"
 
-## seabox: required?
-# on:
-#   issues:
-#     types: [opened, edited]
+on:
+  issues:
+    types: [opened, edited]
 
 jobs:
   triage:

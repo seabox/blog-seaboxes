@@ -1,9 +1,10 @@
 name: Publish Ruby Gem
 
-on:
-  push:
-    tags:
-      - v*
+## seabox: required?
+# on:
+#   push:
+#     tags:
+#       - v*
 
 jobs:
   build:

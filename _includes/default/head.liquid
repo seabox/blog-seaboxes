@@ -77,11 +77,11 @@
     {% unless page.layout == post %}
     <meta property="og:type" content="website" />
     {% endunless %}
-    {% seo %}
+    <!-- %seo% -->
 
     <!-- RSS -->
     <link rel="alternate" type="application/atom+xml" title="{{ site.title | default: 'Title' }}" href="{{ 'feed.xml' | absolute_url }}"/>
-    {% feed_meta %}
+    <!-- % feed_meta % -->
 
     <!-- Twitter Cards -->
     <meta name="twitter:title" content="{{ page.title | default: site.title }}">

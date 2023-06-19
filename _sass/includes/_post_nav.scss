@@ -16,12 +16,14 @@
   #previous-post {
     float: left;
     width: 50%;
+    font-size: 0.8em;
   }
 
   #next-post {
     float: right;
     text-align: right;
     width: 50%;
+    font-size: 0.8em;
   }
 
   @media screen and (max-width: $sm-break) {

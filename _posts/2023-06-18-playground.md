@@ -20,6 +20,4 @@ When initially asked if the play space could be dedicated in memory of Violet, w
 
 We believe dedicating this space is not just for Violet, but all of you too, our family, our community. Not only because you supported us, but because we know you’ve gone through challenging times too, we know many who have lost babies, had sickness, medical complexities and cancer, and the Church has been there for you too. We hope this play space reminds us all that God and His Church family are always near.
 
-...
-
 ![Photo of playground](/assets/img/posts/play-overall.png)![Plaque with Bilbina and Billy](/assets/img/posts/play-billynbilbina.png)![Bilbies on the fence](/assets/img/posts/play-fencebilby.png)

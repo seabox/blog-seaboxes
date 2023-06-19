@@ -3,7 +3,7 @@ layout: post
 title: The Hardest Conversation
 date: 2022-07-21 17:25
 author: craig
-color: rgb(53, 74, 84)
+color: rgb(60, 191, 241)
 tags: [The Journey, How do you do it]
 ---
 How do you tell your child they are dying?

@@ -23,3 +23,5 @@ We struggled with guilt for accepting her prognosis, a spiritual wrestle; "have 
 Colleen and I knew Violet would eventually ask and were prepared this could happen when just one of us was with Violet, which it did. About 12 days before Violet passed, as Colleen was helping Violet from the shower she asked what was next. Apart a minute of denial, Violet took this amazingly well, the conversation quickly shifted to asking if she would get to meet many people she already knows in heaven. 
 
 Until she passed, Violet was still processing the news, she would ask how long we had known, who knew and if she'd make it to see Christmas. She told Oliver and Piper, which was hard. She was mostly concerned for her friends, she didn't want them to be sad, she wanted them to know she would be ok. Unfortunately, although she bought some toys to make breaking the news easier, she didn't get to tell her friends. We managed to talk briefly with her about what she wanted done with her things, most importantly her Bilbies. She also spent time surfing the Kmart website looking to buy lots of toys (with her hard earned elephant profits) to make sick kids in hospital happy.
+
+.

@@ -30,7 +30,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -48,9 +48,14 @@ params:
     hiddenInSingle: false
     responsiveImages: true
 
-  homeInfoParams:
-    Title: Seaboxes Blog
-    Content: Updates from the Box family.
+  profileMode:
+    enabled: false
+    title: Seaboxes Blog
+    subtitle: Updates from the Box family.
+    imageUrl: /assets/img/avatars/CraigAvatar2SQ.png
+    imageTitle: Craig Box
+    imageWidth: 150
+    imageHeight: 150
 
   socialIcons:
     - name: facebook

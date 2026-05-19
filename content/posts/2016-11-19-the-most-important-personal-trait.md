@@ -10,7 +10,7 @@ A trait that I highly rate is humility.
 We live in a "look at me" and "look at what I have" society where I think humility is lost.
 
 My take on the word is, someone who is humble, no matter what status you have, or where you are, you have time to listen stand up for and help others. The dictionary has a slightly different take on it..
-[Humility definition](/assets/img/posts/humility.jpg "Humility definition")
+![Humility definition](/assets/img/posts/humility.png "Humility definition")
 
 So, here's the people who I respect for their humility…
 

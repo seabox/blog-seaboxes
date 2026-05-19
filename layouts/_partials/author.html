@@ -1,0 +1,7 @@
+{{- if or .Params.author site.Params.author -}}
+    {{- $author := (.Params.author | default site.Params.author) -}}
+    {{- $avatars := dict "Craig" "/assets/img/avatars/CraigAvatar2SQ.png" "Colleen" "/assets/img/avatars/ColleenAvatarSQ.jpg" -}}
+    {{- $imgUrl := index $avatars $author -}}
+    {{- if $imgUrl -}}<img src="{{ $imgUrl }}" alt="{{ $author }}" style="height:1.4em;width:1.4em;border-radius:50%;vertical-align:middle;object-fit:cover;margin-right:0.3em;display: inline;" />{{- end -}}
+    {{- $author -}}
+{{- end -}}

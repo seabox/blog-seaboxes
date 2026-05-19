@@ -4,6 +4,10 @@
 # Mac OS
 .DS_Store
 
+# Hugo build output and cache
+public/
+.hugo_build.lock
+
 # Byte-compiled / optimized / DLL files
 *.manifest
 *.spec

@@ -1,0 +1,98 @@
+baseURL: https://blog.seaboxes.com/
+locale: en-AU
+title: Seaboxes Blog
+theme: PaperMod
+
+enableRobotsTXT: true
+uglyURLs: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+permalinks:
+  posts: /:year/:month/:day/:slug/
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+taxonomies:
+  tag: tags
+
+params:
+  env: production
+  title: Seaboxes Blog
+  description: Updates from the Box family.
+  author: Craig
+  defaultTheme: dark
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+    responsiveImages: true
+
+  homeInfoParams:
+    Title: Seaboxes Blog
+    Content: Updates from the Box family.
+
+  socialIcons:
+    - name: facebook
+      url: https://www.facebook.com/VioletsOfTomorrow
+    - name: instagram
+      url: https://www.instagram.com/violets.of.tomorrow
+    - name: rss
+      url: /index.xml
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 1
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # allow raw HTML in posts (used in older posts)
+
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search.html
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archive
+      url: /archives.html
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about.html
+      weight: 40

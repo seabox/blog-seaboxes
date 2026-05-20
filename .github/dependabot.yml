@@ -1,19 +1,10 @@
 version: 2
 updates:
-  # Keep GitHub Actions up to date
+  # Keep GitHub Actions up to date (checkout, configure-pages, etc.)
   - package-ecosystem: github-actions
     directory: /
     schedule:
       interval: monthly
-
-  # Keep Hugo version up to date
-  - package-ecosystem: docker
-    directory: /
-    schedule:
-      interval: monthly
-    ignore:
-      - dependency-name: "*"
-        update-types: ["version-update:semver-patch"]  # minor/major only
 
   # Keep PaperMod submodule up to date
   - package-ecosystem: gitsubmodule
